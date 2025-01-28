@@ -1,4 +1,4 @@
-# Cohort-Analysis-for-assessing-customer-retention-in-E-commerce-industry
+# Cohort-Analysis-for-assessing-customer-retention-in-E-commerce-industry-Using-Python
 ### Overview
 In this project, I delved into Cohort Analysis to gain a deeper understanding of customer behavior. This analytical approach enabled me to segment customers into cohorts based on their purchase behavior over time, which was instrumental in identifying key retention opportunities and optimizing marketing efforts. By analyzing these cohorts, I developed strategies that helped businesses improve customer engagement and increase the effectiveness of their marketing campaigns
 
